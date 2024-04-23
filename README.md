@@ -12,3 +12,8 @@ Dalam konteks ini, *publisher* menggunakan URL untuk mengirim pesan ke *queue*, 
 
 ### Running RabbitMQ as message broker
 ![image](https://github.com/adhan-857/my-first-repo/assets/119088782/3b81a3a9-192c-4ab9-b57b-0d9602a22f8c)
+<br>
+<br>
+
+### Sending and processing event
+![image](https://github.com/adhan-857/my-first-repo/assets/119088782/f413e820-c7ec-4fe0-9e0c-278243a0a4da)
