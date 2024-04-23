@@ -17,3 +17,10 @@ Dalam konteks ini, *publisher* menggunakan URL untuk mengirim pesan ke *queue*, 
 
 ### Sending and processing event
 ![image](https://github.com/adhan-857/my-first-repo/assets/119088782/f413e820-c7ec-4fe0-9e0c-278243a0a4da)
+Ketika kita menjalankan *publisher*, maka *publisher* akan mengirimkan 5 *event* atau pesan ke *message broker*. *Subscriber* kemudian menerima pesan ini melalui *message broker* dan menampilkan pesan tersebut di *console* seperti kode yang telah dibuat.
+<br>
+<br>
+
+### Monitoring chart based on publisher
+![image](https://github.com/adhan-857/my-first-repo/assets/119088782/b9424a42-c4f1-4db6-97c9-2a65793d6718)
+Pada grafik kedua, terlihat bahwa terjadi peningkatan *message* dalam suatu interval waktu. Hal ini berkaitan dengan *publisher* yang sebelumnya dijalankan menggunakan `cargo run`. Dapat dilihat pada gambar tiap kali publisher di-*run*, akan terjadi peningkatan *message rate* pada rabbitMQ yang berguna sebagai 8message queue*-nya.
