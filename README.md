@@ -23,4 +23,4 @@ Ketika kita menjalankan *publisher*, maka *publisher* akan mengirimkan 5 *event*
 
 ### Monitoring chart based on publisher
 ![image](https://github.com/adhan-857/my-first-repo/assets/119088782/b9424a42-c4f1-4db6-97c9-2a65793d6718)
-Pada grafik kedua, terlihat bahwa terjadi peningkatan *message* dalam suatu interval waktu. Hal ini berkaitan dengan *publisher* yang sebelumnya dijalankan menggunakan `cargo run`. Dapat dilihat pada gambar tiap kali publisher di-*run*, akan terjadi peningkatan *message rate* pada rabbitMQ yang berguna sebagai 8message queue*-nya.
+Pada grafik kedua, terlihat bahwa terjadi peningkatan *message* dalam suatu interval waktu. Hal ini berkaitan dengan *publisher* yang sebelumnya dijalankan menggunakan `cargo run`. Dapat dilihat pada gambar tiap kali publisher di-*run*, akan terjadi peningkatan *message rate* pada rabbitMQ yang berguna sebagai *message queue*-nya.
